@@ -1,0 +1,24 @@
+.MainTitle,
+a:link{
+    background-color: lightskyblue;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    border: solid black 1px;
+    padding: 2px 2px;
+}
+.BookImage{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: auto;
+    height: 300px;
+}
+.RecipeList{
+    text-align: center;
+    border: solid black 2px;
+    display: flex;
+    list-style: none;
+    padding: 0;
+    justify-content: space-between;
+ }
